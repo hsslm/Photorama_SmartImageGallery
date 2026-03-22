@@ -1,4 +1,4 @@
-# Photorama — Galerie d'images intelligente
+# Photorama - Galerie d'images intelligente
 
 Application Java qui détecte automatiquement les photos dupliquées dans un dossier et les regroupe visuellement. Trois algorithmes de comparaison d'images sont implémentés, accessibles via une interface graphique JavaFX ou en ligne de commande.
 
@@ -44,7 +44,7 @@ Selma Hajjami - Projet réalisé dans le cadre du cours SIM - Développement d'a
 ---
 ---
 
-# Photorama — Smart Image Gallery
+# Photorama - Smart Image Gallery
 
 Java application that automatically detects duplicate photos in a folder and groups them visually. Three image comparison algorithms are implemented, accessible through a JavaFX graphical interface or via the command line.
 
