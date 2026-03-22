@@ -32,14 +32,14 @@ Application Java qui détecte automatiquement les photos dupliquées dans un dos
 
 Via le menu Gradle dans IntelliJ :
 
-- Tasks > Application > run — version JavaFX
-- Tasks > Application > runCmd — version ligne de commande
+- Tasks > Application > run - version JavaFX
+- Tasks > Application > runCmd - version ligne de commande
 
 ---
 
 ## Auteure
 
-Selma Hajjami — Projet réalisé dans le cadre du cours SIM — Développement d'applications dans un environnement graphique — Collège de Bois-de-Boulogne, Automne 2025.
+Selma Hajjami - Projet réalisé dans le cadre du cours SIM - Développement d'applications dans un environnement graphique - Collège de Bois-de-Boulogne, Automne 2025.
 
 ---
 ---
@@ -78,11 +78,11 @@ Java application that automatically detects duplicate photos in a folder and gro
 
 Via the Gradle menu in IntelliJ :
 
-- Tasks > Application > run — JavaFX version
-- Tasks > Application > runCmd — command-line version
+- Tasks > Application > run - JavaFX version
+- Tasks > Application > runCmd - command-line version
 
 ---
 
 ## Author
 
-Selma Hajjami — Project completed as part of the SIM course — Application Development in a Graphical Environment — Collège de Bois-de-Boulogne, Fall 2025.
+Selma Hajjami - Project completed as part of the SIM course - Application Development in a Graphical Environment - Collège de Bois-de-Boulogne, Fall 2025.
